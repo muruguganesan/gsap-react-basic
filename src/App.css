@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Custom CSS */
+.box {
+  display: grid;
+  place-items: center;
+  width: 300px;
+  height: 300px;
+  margin-top: 100px;
+  color: #fff;
+  font-size: 30px;
+}
+.a, .d {
+  background-color:#06b8a6
+}
+.b, .e {
+  background-color: #dc493a
+}
+.c, .f {
+  background-color:#d7b2ff
+}
